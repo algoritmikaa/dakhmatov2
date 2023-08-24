@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    border: 5px solid orange;
+    border-radius: 15px;
+}
+
+footer p {
+    background-color: lightgreen;
+    padding: 2px;
+}
+
+nav {
+    border: 5px solid lightblue;
+    padding: 1px;
+    border-radius: 5px;
+}
+
+nav a {
+    margin: 60px;
+    text-decoration: none;
+}
+
+.fg {
+    background-color: palegreen;
+    padding: 10px;
+}
+
+h2 {
+    color: blue;
+}
+
+.dfg {
+    border: 3px solid blue;
+    padding: 5px;
+    text-decoration: none;
+}
